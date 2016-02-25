@@ -1,12 +1,10 @@
-# Obsidian [![Build status](https://travis-ci.org/stefanheule/obsidian.svg?branch=master)](https://travis-ci.org/stefanheule/obsidian)
+# CarbonFiber [![Build status](https://travis-ci.org/stefanheule/CarbonFiber.svg?branch=master)](https://travis-ci.org/stefanheule/CarbonFiber)
 
-![Obsidian banner](resources/images/banner.png)
+![CarbonFiber banner](resources/images/banner.png)
 
 Available in the Pebble App Store:
 
 [![Available on the Pebble App Store](http://pblweb.com/badge/55ee57da2b0b31132c00008b/black/small)](https://apps.getpebble.com/applications/55ee57da2b0b31132c00008b)
-
-[Blog post introducing the initial version of Obsidian](http://stefanheule.com/blog/obsidian-a-usable-and-elegant-analog-watchface-for-the-pebble-time/).
 
 ## Overview
 
@@ -149,7 +147,7 @@ limitations under the License.
 
 ## Influence
 
-There are a few watch faces that have influenced the design of Obsidian:
+There are a few watch faces that have influenced the design of CarbonFiber:
 
 - [Simple.Watch](http://apps.getpebble.com/en_US/application/5551c537c60fc8732d000006)
 - [TH3](http://apps.getpebble.com/en_US/application/5551c4a91113bc93a00000de)
